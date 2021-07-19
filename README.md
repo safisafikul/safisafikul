@@ -1,14 +1,6 @@
-<p align="center">
-
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
-
 # Hi guys 👋  I'm Safi
 - 🌱 I’m currently learning React JS
 - 👯 open source contributor
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me: email@gmail.com.
 - ⚡  Fun fact: I spend almost 5-6 hours Learning everyday.
 
 <h3 align="left">Languages and Tools:</h3>
