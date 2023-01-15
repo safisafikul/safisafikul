@@ -1,7 +1,7 @@
 # Hi guys 👋  I'm Safi
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Flutter
 - 👯 open source contributor
-- ⚡  Fun fact: I spend almost 5-6 hours Learning everyday.
+- ⚡  Fun fact: I spend almost 1-2 hours Learning everyday.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
