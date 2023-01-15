@@ -31,3 +31,7 @@
 <a href="https://flutter.dev/" target="_blank">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
 </a>
+
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+</a>
